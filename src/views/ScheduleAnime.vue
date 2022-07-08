@@ -8,7 +8,7 @@
         <option value="wednesday">Rabu</option>
         <option value="thursday">Kamis</option>
         <option value="friday">Jumat</option>
-        <option value="saturady">Sabtu</option>
+        <option value="saturday">Sabtu</option>
         <option value="sunday">Minggu</option>
     </select>
     <app-list>
